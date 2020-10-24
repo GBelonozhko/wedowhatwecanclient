@@ -1,0 +1,32 @@
+export const SUBSCRIBE_NL = 'SUBSCRIBE_NL';
+export const SUBSCRIBE_FAIL = 'SUBSCRIBE_FAIL';
+export const GET_SUBSCRIBERS = 'GET_SUBSCRIBERS';
+export const REMOVE_SUBSCRIBER = 'REMOVE_SUBSCRIBER';
+
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const AUTH_LOGOUT = 'AUTH_LOGOUT';
+export const SET_AUTH_REDIRECT_PATH = 'SET_AUTH_REDIRECT_PATH';
+
+
+export const SET_ARTICLES = 'SET_ARTICLES';
+export const ADD_ARTICLE = 'ADD_ARTICLE';
+export const SET_ARTICLE = 'SET_ARTICLE';
+export const REMOVE_ARTICLE = 'REMOVE_ARTICLE';
+export const REPLACE_ARTICLE = 'REPLACE_ARTICLE';
+
+export const SET_TODO_LISTS = 'SET_TODO_LISTS';
+export const SET_COMPLETE_COUNT = 'SET_COMPLETE_COUNT';
+export const SET_TOTAL_TASKS = "SET_TOTAL_TASKS";
+
+export const SET_TODOS = 'SET_TODOS';
+export const ADD_TODO = 'ADD_TODO';
+export const SET_TODO = 'SET_TODO';
+export const REMOVE_TODO = 'REMOVE_TODO';
+export const UPDATE_TODO = 'UPDATE_TODO';
+export const TOGGLE_TODO = 'TOGGLE_TODO';
+export const FETCH_TODOS_FAILED = 'FETCH_TODOS_FAILED';
